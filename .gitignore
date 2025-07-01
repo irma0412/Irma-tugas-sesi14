@@ -1,0 +1,5 @@
+# Ignore Node.js modules
+node_modules/
+
+# Ignore Allure results folder
+allure-results/
