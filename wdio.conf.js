@@ -1,6 +1,6 @@
 export const config = {
     runner: 'local',
-    specs: ['./test/*.js'],
+    specs: ['./test/Tugas_sesi14.test.js'],
     maxInstances: 1,
     capabilities: [
         {
