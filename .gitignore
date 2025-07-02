@@ -3,3 +3,7 @@ node_modules/
 
 # Ignore Allure results folder
 allure-results/
+allure-report/
+
+# ignore file latihan
+test/appdemo.test.js
